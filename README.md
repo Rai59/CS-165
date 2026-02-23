@@ -7,8 +7,6 @@ A machine learning project to predict forest fire occurrence using meteorologica
 This project develops a binary classification system to predict whether a forest fire will occur based on weather conditions. Three models are compared — Logistic Regression, k-Nearest Neighbours, and Random Forest — with Random Forest achieving the best performance at **95.9% accuracy**.
 
 ## Dataset
-
-- **Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Algerian+Forest+Fires+Dataset++)
 - **Size:** 243 observations from two Algerian regions (Bejaia and Sidi-Bel Abbes)
 - **Period:** June – September (fire season)
 - **Features:** Temperature, humidity, wind speed, rainfall, and Fire Weather Index components (FFMC, DMC, DC, ISI, BUI, FWI)
