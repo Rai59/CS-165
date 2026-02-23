@@ -31,7 +31,6 @@ This project develops a binary classification system to predict whether a forest
 - pandas, NumPy
 - scikit-learn
 - Matplotlib, Seaborn
-- 
 ## Future Improvements
 
 - Hyperparameter tuning (GridSearchCV)
